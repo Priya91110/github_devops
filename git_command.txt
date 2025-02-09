@@ -49,8 +49,12 @@ git clone repo url
 
 history
 
+<<<<<<< HEAD
 
 
 ssh 
 
 
+=======
+update   ,
+>>>>>>> fa1cb6e4a2493ba988caa48514d4d6530aef2726
