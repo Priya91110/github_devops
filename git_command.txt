@@ -49,3 +49,8 @@ git clone repo url
 
 history
 
+
+
+ssh 
+
+
