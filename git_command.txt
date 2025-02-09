@@ -1,0 +1,18 @@
+unstage a file after adding it(untracked to staged)
+git rm --cashed testing.py
+
+store file after staged 
+git restore testing.py
+
+
+Personal access token 
+
+
+
+check origin set or not
+git remote -v
+
+
+When we create repo first on github then it is named as Main
+
+and when create repo first in local it is master
