@@ -6,6 +6,25 @@ git restore testing.py
 
 
 Personal access token 
+github
+|
+settings
+|
+developer settings
+|
+personal access token
+|
+token classic
+|
+generate new token(classic)
+|
+note (token name)
+|
+give access
+|
+token generate
+
+git remote set-url origin pastetoken
 
 
 
@@ -16,3 +35,17 @@ git remote -v
 When we create repo first on github then it is named as Main
 
 and when create repo first in local it is master
+
+
+
+fork 
+copy a repo from github to github
+
+
+github  to local
+git clone repo url
+
+
+
+history
+
